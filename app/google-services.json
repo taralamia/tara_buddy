@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21853361030",
+    "project_id": "uni-buddy-e25fe",
+    "storage_bucket": "uni-buddy-e25fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21853361030:android:3b1751d20bcfcede731207",
+        "android_client_info": {
+          "package_name": "com.example.unibuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21853361030-g9dlshhskghhbb2t4oihdgt2us9shv0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZXHfiusDuoTLX3KkRLuQbDNrH9SQFA4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21853361030-g9dlshhskghhbb2t4oihdgt2us9shv0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
